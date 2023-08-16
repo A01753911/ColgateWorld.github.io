@@ -22,7 +22,7 @@
     {
         "id": "Lavaplatos Axion 425g",
         "titulo": "Lavaplatos Axion 425g",
-        "imagen": "./img/HOMECARE/lavaplatos_axion.jpg",
+        "imagen": "./img/HOMECARE/lavaplatos_axion.JPG",
         "categoria": {
             "nombre": "HOMECARE",
             "id": "HOMECARE"
@@ -76,7 +76,7 @@
     {
         "id": "Pasta de Dientes Sensibilidad Dental",
         "titulo": "Pasta de Dientes Sesibilidad Dental",
-        "imagen": "./img/ORALCARE/pasta_dientes_sensitive.jpg",
+        "imagen": "./img/ORALCARE/pasta_dientes_sensitive.JPG",
         "categoria": {
             "nombre": "ORALCARE",
             "id": "ORALCARE"
@@ -130,7 +130,7 @@
     {
         "id": "Shampoo Caprice 750 ml",
         "titulo": "Shampoo Caprice 750 ml",
-        "imagen": "./img/PERSONALCARE/Shampoo_caprice.JPG",
+        "imagen": "./img/PERSONALCARE/Shampoo_caprice.jpg",
         "categoria": {
             "nombre": "PERSONALCARE",
             "id": "PERSONALCARE"
